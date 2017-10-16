@@ -1,0 +1,63 @@
+body{
+    background-color: #f7f7f7;
+    font-family: FreeMono;
+}
+
+td{
+    padding: 6px;
+}
+/*Parte azul*/
+.fundo{
+    background-color: #8294ff;
+    display: inline-block;
+    position: absolute;
+}
+.tres{
+    width: 100%;
+}
+.trio{
+    width: 33%;
+}
+.foto{
+    height: 55%;
+    width: 55%;
+    display: inline-block;
+    border: 3px dotted white;
+    border-radius: 2px;
+    margin-top: 10%;
+}
+.centro{
+    text-align: center;
+}
+.nome{
+    margin-top: 5px;
+    color: white;
+    font-size: 190%;
+}
+.titulo{
+    text-align: center;
+    font-weight: bold;
+    font-size: 140%;
+}
+.descricao{
+    padding-top: 10px;
+    font-size: 100%;
+    color: white;
+}
+.esq{
+    padding-left: 10%;
+    text-align: left;
+}
+/*End*/
+/*conteudo*/
+.conteudo{
+    margin-top: 5%;
+    position: relative;
+    display: block;
+}
+.titulo2{
+    background: linear-gradient(to right, rgba(255,0,0,0), rgb(110,127,229));
+    color: white;
+    padding-right: 15px;
+    text-align: right;
+}
